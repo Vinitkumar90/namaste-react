@@ -1,0 +1,21 @@
+{
+  "name": "2ignitingourapp",
+  "version": "1.0.0",
+  "description": "igniting out app code",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "vinit",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browsersList":[
+    "last 2 versions"
+  ]
+}
